@@ -8,7 +8,7 @@
 
 fill_ram:
 	mov 	$1,		%rcx # start 
-	mov		$11,		%rdx # end 
+	mov		$11,	%rdx # end 
 	mov		$0, 	%rax # Accumulator 
 again:
 	add		%rcx,	%rax
