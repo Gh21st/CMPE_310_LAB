@@ -18,6 +18,7 @@ This is our tester:
 hamming_distance_tester.c
 
 Executables: 
+
 lab_2
 lab_2_debug **for debug purposes 
 lab_2_test
@@ -25,12 +26,15 @@ lab_2_test
 Others:
 Makefile:
     targets: 
-        This compiles program with driver 
-        lab_2 
+        This compiles program with driver
+
+        make lab_2 
         This compiles program for debugging 
-        debug
+
+        make debug
         This compiles program with tester 
-        test
+
+        make test
 
 Deliverable(s):
 ISAAC_BOTELER-CMPE_310-LAB_2-REPORT.pdf 
