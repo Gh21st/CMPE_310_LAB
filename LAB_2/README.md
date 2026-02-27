@@ -20,7 +20,9 @@ hamming_distance_tester.c
 Executables: 
 
 lab_2
+
 lab_2_debug **for debug purposes 
+
 lab_2_test
 
 Others:
