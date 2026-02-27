@@ -26,14 +26,14 @@ lab_2_test
 Others:
 Makefile:
     targets: 
+
         This compiles program with driver
-
         make lab_2 
-        This compiles program for debugging 
 
+        This compiles program for debugging
         make debug
-        This compiles program with tester 
 
+        This compiles program with tester 
         make test
 
 Deliverable(s):
