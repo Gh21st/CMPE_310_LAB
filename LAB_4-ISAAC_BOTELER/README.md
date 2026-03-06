@@ -25,6 +25,16 @@ lab_4_debug **for debug purposes
 
 lab_4_test
 
+These files are used in our driver code: 
+Data Files: 
+
+Provided file: 
+data.text 
+
+Created file: 
+data_extra.text 
+
+
 Others:
 Makefile:
     targets: 
@@ -39,4 +49,5 @@ Makefile:
         make test
 
 Deliverable(s):
-ISAAC_BOTELER-CMPE_310-LAB_4-REPORT.pdf 
+
+ 
